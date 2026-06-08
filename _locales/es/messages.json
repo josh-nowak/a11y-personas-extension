@@ -1,0 +1,147 @@
+{
+  "extensionName": {
+    "message": "Simulating accessibility personas"
+  },
+  "extensionDescription": {
+    "message": "This extension applies visual effects to web pages to simulate the browsing experience of people with accessibility-related needs."
+  },
+  "popupTitle": {
+    "message": "Simulating accessibility personas"
+  },
+  "popupIntroduction": {
+    "message": "Choose a persona to simulate the experience of a web user with accessibility-related needs."
+  },
+  "resetButton": {
+    "message": "Reset"
+  },
+  "simulateButton": {
+    "message": "Simulate"
+  },
+  "learnMore": {
+    "message": "Learn more about $NAME$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Ashleigh"
+      }
+    }
+  },
+
+  "ashleighTitle": {
+    "message": "Ashleigh"
+  },
+  "ashleighDescription": {
+    "message": "A severely sight-impaired person with a screen reader."
+  },
+  "ashleighInstructionBlur": {
+    "message": "The current tab's content is now blurred to simulate Ashleigh's sight impairment."
+  },
+  "ashleighInstructionScreenReader": {
+    "message": "Open a screen reader on your device to experience how Ashleigh navigates the page."
+  },
+  "ashleighInstructionScreenReaderMac": {
+    "message": "On Mac, you can use the native screen reader <a href=\"https://support.apple.com/guide/voiceover/welcome/mac\" target=\"_blank\" class=\"kern-link\">VoiceOver</a> by pressing Cmd + F5."
+  },
+  "ashleighInstructionScreenReaderWindows": {
+    "message": "On Windows, you can use the native screen reader <a href=\"https://support.microsoft.com/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1\" target=\"_blank\" class=\"kern-link\">Narrator</a> by pressing the Windows logo key + Ctrl + Enter."
+  },
+
+  "pawelTitle": {
+    "message": "Pawel"
+  },
+  "pawelDescription": {
+    "message": "An autistic person who is easily distracted when browsing the web."
+  },
+  "pawelWarning": {
+    "message": "Loud sounds will be played during the simulation. Please check your volume."
+  },
+  "pawelInstructionDistractions": {
+    "message": "You'll see moving text and images, simulating Pawel's distractions. Make sure your sound is turned on to hear audio distractions as well. Pawel uses a color theme that helps him focus on the content."
+  },
+  "pawelMessage01": {
+    "message": "Did I eat lunch?"
+  },
+  "pawelMessage02": {
+    "message": "I have to get back to work soon..."
+  },
+  "pawelMessage03": {
+    "message": "The ventilation sounds a lot today. bzzzzzz"
+  },
+  "pawelMessage04": {
+    "message": "Should I answer that text message?"
+  },
+  "pawelMessage05": {
+    "message": "Must concentrate, must concentrate, must concentrate"
+  },
+
+  "simoneTitle": {
+    "message": "Simone"
+  },
+  "simoneDescription": {
+    "message": "A dyslexic person who needs more time to understand text and forms."
+  },
+  "simoneInstructionScrambledText": {
+    "message": "The text in the current tab is being scrambled to simulate Simone's experience with dyslexia. A screen ruler helps her read the text. Simone also uses a colored overlay to reduce visual stress. The font is changed to Atkinson Hyperlegible, which helps people with dyslexia recognize letters more easily."
+  },
+  "simoneInstructionReadParagraphs": {
+    "message": "Try to read paragraphs or navigate forms with this setting. Notice which parts of the page are especially hard to read."
+  },
+
+  "ronTitle": {
+    "message": "Ron"
+  },
+  "ronDescription": {
+    "message": "An older person with a hand tremor and no assistive technology."
+  },
+  "ronInstructionShakingCursor": {
+    "message": "The cursor is now shaking, simulating Ron's tremor."
+  },
+  "ronInstructionCursorVisibility": {
+    "message": "If the original cursor is still visible, try moving it to the address bar and back in.</strong>"
+  },
+
+  "claudiaTitle": {
+    "message": "Claudia"
+  },
+  "claudiaDescription": {
+    "message": "A sight-impaired person who uses a screen magnifier."
+  },
+  "claudiaInstructionMagnification": {
+    "message": "Claudia needs to magnify the page content to see everything clearly. The current tab is now zoomed in to 200%. High contrast mode is enabled."
+  },
+  "claudiaInstructionSystemSettingsMac": {
+    "message": "Set your mouse cursor to maximum size to improve the simulation. To do this, go to “Accessibility > Display” in the system settings."
+  },
+  "claudiaInstructionSystemSettingsWindows": {
+    "message": "Set your mouse cursor to maximum size to improve the simulation. To do this, go to “Accessibility > Mouse pointer and touch” in the system settings."
+  },
+
+  "chrisTitle": {
+    "message": "Chris"
+  },
+  "chrisDescription": {
+    "message": "A person with rheumatoid arthritis who mostly uses his keyboard."
+  },
+  "chrisInstructionColorPerception": {
+    "message": "Because Chris has trouble seeing colors, your tab is shown in grayscale. The mouse cursor is hidden since Chris uses the keyboard for navigation."
+  },
+  "chrisInstructionCursorVisibility": {
+    "message": "If the cursor is still visible, try moving it to the address bar and back in.</strong>"
+  },
+  "chrisInstructionKeyboardNavigation": {
+    "message": "Put your mouse aside and only use the keyboard to navigate the page. Use the TAB and ENTER keys and pay attention to the order in which elements are selected."
+  },
+
+  "saleemTitle": {
+    "message": "Saleem"
+  },
+  "saleemDescription": {
+    "message": "A Deaf person whose main language is German Sign Language."
+  },
+  "saleemInstructionMute": {
+    "message": "The current tab is now muted to simulate Saleem's experience with profound deafness."
+  },
+  "saleemInstructionVideo": {
+    "message": "Check if videos have descriptive captions or transcripts. It's easiest for Saleem to receive information in British Sign Language (BSL). Check if the website provides different contacting options or offers a relay service in BSL."
+  }
+}
