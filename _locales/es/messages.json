@@ -1,24 +1,24 @@
 {
   "extensionName": {
-    "message": "Simulating accessibility personas"
+    "message": "Simulación de perfiles de accesibilidad"
   },
   "extensionDescription": {
-    "message": "This extension applies visual effects to web pages to simulate the browsing experience of people with accessibility-related needs."
+    "message": "Esta extensión aplica efectos visuales a las páginas web para simular la experiencia de navegación de personas con necesidades de accesibilidad."
   },
   "popupTitle": {
-    "message": "Simulating accessibility personas"
+    "message": "Simulación de perfiles de accesibilidad"
   },
   "popupIntroduction": {
-    "message": "Choose a persona to simulate the experience of a web user with accessibility-related needs."
+    "message": "Elige un perfil para simular la experiencia de un usuario web con necesidades de accesibilidad."
   },
   "resetButton": {
-    "message": "Reset"
+    "message": "Restablecer"
   },
   "simulateButton": {
-    "message": "Simulate"
+    "message": "Simular"
   },
   "learnMore": {
-    "message": "Learn more about $NAME$",
+    "message": "Saber más acerca de $NAME$",
     "placeholders": {
       "name": {
         "content": "$1",
@@ -31,70 +31,70 @@
     "message": "Ashleigh"
   },
   "ashleighDescription": {
-    "message": "A severely sight-impaired person with a screen reader."
+    "message": "Una persona con discapacidad visual grave que utiliza un lector de pantalla."
   },
   "ashleighInstructionBlur": {
-    "message": "The current tab's content is now blurred to simulate Ashleigh's sight impairment."
+    "message": "El contenido de la pestaña actual está borroso para simular la deficiencia visual de Ashleigh."
   },
   "ashleighInstructionScreenReader": {
-    "message": "Open a screen reader on your device to experience how Ashleigh navigates the page."
+    "message": "Activa un lector de pantalla en tu dispositivo para ver cómo navega Ashleigh por la página."
   },
   "ashleighInstructionScreenReaderMac": {
-    "message": "On Mac, you can use the native screen reader <a href=\"https://support.apple.com/guide/voiceover/welcome/mac\" target=\"_blank\" class=\"kern-link\">VoiceOver</a> by pressing Cmd + F5."
+    "message": "En Mac, puedes utilizar el lector de pantalla integrado <a href=\"https://support.apple.com/guide/voiceover/welcome/mac\" target=\"_blank\" class=\"kern-link\">VoiceOver</a> by pressing Cmd + F5."
   },
   "ashleighInstructionScreenReaderWindows": {
-    "message": "On Windows, you can use the native screen reader <a href=\"https://support.microsoft.com/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1\" target=\"_blank\" class=\"kern-link\">Narrator</a> by pressing the Windows logo key + Ctrl + Enter."
+    "message": "En Windows, puedes utilizar el lector de pantalla integrado <a href=\"https://support.microsoft.com/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1\" target=\"_blank\" class=\"kern-link\">Narrator</a> by pressing the Windows logo key + Ctrl + Enter."
   },
 
   "pawelTitle": {
     "message": "Pawel"
   },
   "pawelDescription": {
-    "message": "An autistic person who is easily distracted when browsing the web."
+    "message": "Una persona con autismo que se distrae fácilmente cuando navega por Internet."
   },
   "pawelWarning": {
-    "message": "Loud sounds will be played during the simulation. Please check your volume."
+    "message": "Durante la simulación se reproducirán sonidos fuertes. Por favor comprueba el volumen."
   },
   "pawelInstructionDistractions": {
-    "message": "You'll see moving text and images, simulating Pawel's distractions. Make sure your sound is turned on to hear audio distractions as well. Pawel uses a color theme that helps him focus on the content."
+    "message": "Verás texto e imágenes en movimiento que simulan las distracciones de Pawel. Asegúrate de tener el sonido activado para escuchar también las distracciones de audio. Pawel utiliza un tema de color que le ayuda a concentrarse en el contenido."
   },
   "pawelMessage01": {
-    "message": "Did I eat lunch?"
+    "message": "¿He comido ya?"
   },
   "pawelMessage02": {
-    "message": "I have to get back to work soon..."
+    "message": "Tengo que volver al trabajo pronto..."
   },
   "pawelMessage03": {
-    "message": "The ventilation sounds a lot today. bzzzzzz"
+    "message": "La ventilación hace mucho ruido hoy. bzzzzzz"
   },
   "pawelMessage04": {
-    "message": "Should I answer that text message?"
+    "message": "Contesto a ese mensaje?"
   },
   "pawelMessage05": {
-    "message": "Must concentrate, must concentrate, must concentrate"
+    "message": "Necesito concentrarme, necesito concentrarme, necesito concentrarme"
   },
 
   "simoneTitle": {
     "message": "Simone"
   },
   "simoneDescription": {
-    "message": "A dyslexic person who needs more time to understand text and forms."
+    "message": "Una persona disléxica que necesita más tiempo para entender textos y formularios."
   },
   "simoneInstructionScrambledText": {
-    "message": "The text in the current tab is being scrambled to simulate Simone's experience with dyslexia. A screen ruler helps her read the text. Simone also uses a colored overlay to reduce visual stress. The font is changed to Atkinson Hyperlegible, which helps people with dyslexia recognize letters more easily."
+    "message": "El texto en la pestaña actual está siendo desordenado para simular la experiencia de Simone con la dislexia. Una regla de pantalla le ayuda a leer el texto. Simone también utiliza una superposición de color para reducir la fatiga visual. Se ha cambiado la fuente a Atkinson Hyperlegible, lo que ayuda a las personas con dislexia a reconocer las letras con más facilidad."
   },
   "simoneInstructionReadParagraphs": {
-    "message": "Try to read paragraphs or navigate forms with this setting. Notice which parts of the page are especially hard to read."
+    "message": "Prueba a leer párrafos o navegar por formularios con esta configuración. Fijate qué partes de la página son especialmente difíciles de leer."
   },
 
   "ronTitle": {
     "message": "Ron"
   },
   "ronDescription": {
-    "message": "An older person with a hand tremor and no assistive technology."
+    "message": "Una persona mayor con temblores en las manos y sin tecnología de asistencia."
   },
   "ronInstructionShakingCursor": {
-    "message": "The cursor is now shaking, simulating Ron's tremor."
+    "message": "El cursor está temblando, simulando el temblor de Ron."
   },
   "ronInstructionCursorVisibility": {
     "message": "If the original cursor is still visible, try moving it to the address bar and back in.</strong>"
@@ -104,7 +104,7 @@
     "message": "Claudia"
   },
   "claudiaDescription": {
-    "message": "A sight-impaired person who uses a screen magnifier."
+    "message": "Una persona con deficiencia visual que utiliza una lupa de pantalla."
   },
   "claudiaInstructionMagnification": {
     "message": "Claudia needs to magnify the page content to see everything clearly. The current tab is now zoomed in to 200%. High contrast mode is enabled."
@@ -120,28 +120,28 @@
     "message": "Chris"
   },
   "chrisDescription": {
-    "message": "A person with rheumatoid arthritis who mostly uses his keyboard."
+    "message": "Una persona con artritis reumatoide que principalmente utiliza su teclado."
   },
   "chrisInstructionColorPerception": {
-    "message": "Because Chris has trouble seeing colors, your tab is shown in grayscale. The mouse cursor is hidden since Chris uses the keyboard for navigation."
+    "message": "Debido a que Chris tiene dificultades para ver los colores, tu pestaña se muestra en escala de grises. El cursor del ratón está oculto ya que Chris utiliza el teclado para la navegación."
   },
   "chrisInstructionCursorVisibility": {
-    "message": "If the cursor is still visible, try moving it to the address bar and back in.</strong>"
+    "message": "«Si el cursor sigue siendo visible, intenta moverlo a la barra de direcciones y volver a la página.</strong>"
   },
   "chrisInstructionKeyboardNavigation": {
-    "message": "Put your mouse aside and only use the keyboard to navigate the page. Use the TAB and ENTER keys and pay attention to the order in which elements are selected."
+    "message": "Deja el ratón a un lado y navega por la página únicamente con el teclado. tiliza las teclas TAB y ENTER y fíjate en el orden de selección de los elementos."
   },
 
   "saleemTitle": {
     "message": "Saleem"
   },
   "saleemDescription": {
-    "message": "A Deaf person whose main language is German Sign Language."
+    "message": "Una persona sorda cuya lengua principal es la lengua de signos española."
   },
   "saleemInstructionMute": {
-    "message": "The current tab is now muted to simulate Saleem's experience with profound deafness."
+    "message": "La pestaña actual se ha silenciado para simular la experiencia de Saleem con sordera profunda"
   },
   "saleemInstructionVideo": {
-    "message": "Check if videos have descriptive captions or transcripts. It's easiest for Saleem to receive information in British Sign Language (BSL). Check if the website provides different contacting options or offers a relay service in BSL."
+    "message": "Comprueba si los videos tienen subtítulos descriptivos o transcripciones.A Saleem le resulta más fácil recibir información en lengua de signos española (LSE). Fíjate si la web ofrece distintas vías de contacto o dispone de un servicio de retransmisión en BSL."
   }
 }
