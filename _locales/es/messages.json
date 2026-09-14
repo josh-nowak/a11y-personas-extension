@@ -1,0 +1,147 @@
+{
+  "extensionName": {
+    "message": "Simulación de perfiles de accesibilidad"
+  },
+  "extensionDescription": {
+    "message": "Esta extensión aplica efectos visuales a las páginas web para simular la experiencia de navegación de personas con necesidades de accesibilidad."
+  },
+  "popupTitle": {
+    "message": "Simulación de perfiles de accesibilidad"
+  },
+  "popupIntroduction": {
+    "message": "Elige un perfil para simular la experiencia de un usuario web con necesidades de accesibilidad."
+  },
+  "resetButton": {
+    "message": "Restablecer"
+  },
+  "simulateButton": {
+    "message": "Simular"
+  },
+  "learnMore": {
+    "message": "Saber más acerca de $NAME$",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Ashleigh"
+      }
+    }
+  },
+
+  "ashleighTitle": {
+    "message": "Ashleigh"
+  },
+  "ashleighDescription": {
+    "message": "Una persona con discapacidad visual grave que utiliza un lector de pantalla."
+  },
+  "ashleighInstructionBlur": {
+    "message": "El contenido de la pestaña actual está borroso para simular la deficiencia visual de Ashleigh."
+  },
+  "ashleighInstructionScreenReader": {
+    "message": "Activa un lector de pantalla en tu dispositivo para ver cómo navega Ashleigh por la página."
+  },
+  "ashleighInstructionScreenReaderMac": {
+    "message": "En Mac, puedes utilizar el lector de pantalla integrado <a href=\"https://support.apple.com/guide/voiceover/welcome/mac\" target=\"_blank\" class=\"kern-link\">VoiceOver</a> by pressing Cmd + F5."
+  },
+  "ashleighInstructionScreenReaderWindows": {
+    "message": "En Windows, puedes utilizar el lector de pantalla integrado <a href=\"https://support.microsoft.com/windows/complete-guide-to-narrator-e4397a0d-ef4f-b386-d8ae-c172f109bdb1\" target=\"_blank\" class=\"kern-link\">Narrator</a> by pressing the Windows logo key + Ctrl + Enter."
+  },
+
+  "pawelTitle": {
+    "message": "Pawel"
+  },
+  "pawelDescription": {
+    "message": "Una persona con autismo que se distrae fácilmente cuando navega por Internet."
+  },
+  "pawelWarning": {
+    "message": "Durante la simulación se reproducirán sonidos fuertes. Por favor comprueba el volumen."
+  },
+  "pawelInstructionDistractions": {
+    "message": "Verás texto e imágenes en movimiento que simulan las distracciones de Pawel. Asegúrate de tener el sonido activado para escuchar también las distracciones de audio. Pawel utiliza un tema de color que le ayuda a concentrarse en el contenido."
+  },
+  "pawelMessage01": {
+    "message": "¿He comido ya?"
+  },
+  "pawelMessage02": {
+    "message": "Tengo que volver al trabajo pronto..."
+  },
+  "pawelMessage03": {
+    "message": "La ventilación hace mucho ruido hoy. bzzzzzz"
+  },
+  "pawelMessage04": {
+    "message": "Contesto a ese mensaje?"
+  },
+  "pawelMessage05": {
+    "message": "Necesito concentrarme, necesito concentrarme, necesito concentrarme"
+  },
+
+  "simoneTitle": {
+    "message": "Simone"
+  },
+  "simoneDescription": {
+    "message": "Una persona disléxica que necesita más tiempo para entender textos y formularios."
+  },
+  "simoneInstructionScrambledText": {
+    "message": "El texto en la pestaña actual está siendo desordenado para simular la experiencia de Simone con la dislexia. Una regla de pantalla le ayuda a leer el texto. Simone también utiliza una superposición de color para reducir la fatiga visual. Se ha cambiado la fuente a Atkinson Hyperlegible, lo que ayuda a las personas con dislexia a reconocer las letras con más facilidad."
+  },
+  "simoneInstructionReadParagraphs": {
+    "message": "Prueba a leer párrafos o navegar por formularios con esta configuración. Fijate qué partes de la página son especialmente difíciles de leer."
+  },
+
+  "ronTitle": {
+    "message": "Ron"
+  },
+  "ronDescription": {
+    "message": "Una persona mayor con temblores en las manos y sin tecnología de asistencia."
+  },
+  "ronInstructionShakingCursor": {
+    "message": "El cursor está temblando, simulando el temblor de Ron."
+  },
+  "ronInstructionCursorVisibility": {
+    "message": "If the original cursor is still visible, try moving it to the address bar and back in.</strong>"
+  },
+
+  "claudiaTitle": {
+    "message": "Claudia"
+  },
+  "claudiaDescription": {
+    "message": "Una persona con deficiencia visual que utiliza una lupa de pantalla."
+  },
+  "claudiaInstructionMagnification": {
+    "message": "Claudia needs to magnify the page content to see everything clearly. The current tab is now zoomed in to 200%. High contrast mode is enabled."
+  },
+  "claudiaInstructionSystemSettingsMac": {
+    "message": "Set your mouse cursor to maximum size to improve the simulation. To do this, go to “Accessibility > Display” in the system settings."
+  },
+  "claudiaInstructionSystemSettingsWindows": {
+    "message": "Set your mouse cursor to maximum size to improve the simulation. To do this, go to “Accessibility > Mouse pointer and touch” in the system settings."
+  },
+
+  "chrisTitle": {
+    "message": "Chris"
+  },
+  "chrisDescription": {
+    "message": "Una persona con artritis reumatoide que principalmente utiliza su teclado."
+  },
+  "chrisInstructionColorPerception": {
+    "message": "Debido a que Chris tiene dificultades para ver los colores, tu pestaña se muestra en escala de grises. El cursor del ratón está oculto ya que Chris utiliza el teclado para la navegación."
+  },
+  "chrisInstructionCursorVisibility": {
+    "message": "«Si el cursor sigue siendo visible, intenta moverlo a la barra de direcciones y volver a la página.</strong>"
+  },
+  "chrisInstructionKeyboardNavigation": {
+    "message": "Deja el ratón a un lado y navega por la página únicamente con el teclado. tiliza las teclas TAB y ENTER y fíjate en el orden de selección de los elementos."
+  },
+
+  "saleemTitle": {
+    "message": "Saleem"
+  },
+  "saleemDescription": {
+    "message": "Una persona sorda cuya lengua principal es la lengua de signos española."
+  },
+  "saleemInstructionMute": {
+    "message": "La pestaña actual se ha silenciado para simular la experiencia de Saleem con sordera profunda"
+  },
+  "saleemInstructionVideo": {
+    "message": "Comprueba si los videos tienen subtítulos descriptivos o transcripciones.A Saleem le resulta más fácil recibir información en lengua de signos española (LSE). Fíjate si la web ofrece distintas vías de contacto o dispone de un servicio de retransmisión en BSL."
+  }
+}
